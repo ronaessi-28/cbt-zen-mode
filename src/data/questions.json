@@ -1,0 +1,4286 @@
+[
+  {
+    "id": "q001",
+    "topic": "Algorithms",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Algorithms • 1 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q002",
+    "topic": "Algorithms",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Algorithms • 1 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q003",
+    "topic": "Algorithms",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Algorithms • 1 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q004",
+    "topic": "Algorithms",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Algorithms • 1 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q005",
+    "topic": "Algorithms",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Algorithms • 1 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q006",
+    "topic": "Algorithms",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Algorithms • 1 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q007",
+    "topic": "Algorithms",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Algorithms • 1 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q008",
+    "topic": "Algorithms",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Algorithms • 1 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q009",
+    "topic": "Algorithms",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Algorithms • 1 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      28.25,
+      28.270000000000003
+    ]
+  },
+  {
+    "id": "q010",
+    "topic": "Algorithms",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Algorithms • 1 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      31.389999999999997,
+      31.41
+    ]
+  },
+  {
+    "id": "q011",
+    "topic": "Algorithms",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Algorithms • 2 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q012",
+    "topic": "Algorithms",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Algorithms • 2 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q013",
+    "topic": "Algorithms",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Algorithms • 2 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q014",
+    "topic": "Algorithms",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Algorithms • 2 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q015",
+    "topic": "Algorithms",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Algorithms • 2 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q016",
+    "topic": "Algorithms",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Algorithms • 2 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q017",
+    "topic": "Algorithms",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Algorithms • 2 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q018",
+    "topic": "Algorithms",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Algorithms • 2 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q019",
+    "topic": "Algorithms",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Algorithms • 2 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      56.510000000000005,
+      56.53
+    ]
+  },
+  {
+    "id": "q020",
+    "topic": "Algorithms",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Algorithms • 2 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      62.79,
+      62.809999999999995
+    ]
+  },
+  {
+    "id": "q021",
+    "topic": "Data Structures",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Data Structures • 1 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q022",
+    "topic": "Data Structures",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Data Structures • 1 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q023",
+    "topic": "Data Structures",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Data Structures • 1 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q024",
+    "topic": "Data Structures",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Data Structures • 1 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q025",
+    "topic": "Data Structures",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Data Structures • 1 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q026",
+    "topic": "Data Structures",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Data Structures • 1 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q027",
+    "topic": "Data Structures",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Data Structures • 1 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q028",
+    "topic": "Data Structures",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Data Structures • 1 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q029",
+    "topic": "Data Structures",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Data Structures • 1 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      28.25,
+      28.270000000000003
+    ]
+  },
+  {
+    "id": "q030",
+    "topic": "Data Structures",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Data Structures • 1 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      31.389999999999997,
+      31.41
+    ]
+  },
+  {
+    "id": "q031",
+    "topic": "Data Structures",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Data Structures • 2 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q032",
+    "topic": "Data Structures",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Data Structures • 2 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q033",
+    "topic": "Data Structures",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Data Structures • 2 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q034",
+    "topic": "Data Structures",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Data Structures • 2 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q035",
+    "topic": "Data Structures",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Data Structures • 2 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q036",
+    "topic": "Data Structures",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Data Structures • 2 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q037",
+    "topic": "Data Structures",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Data Structures • 2 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q038",
+    "topic": "Data Structures",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Data Structures • 2 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q039",
+    "topic": "Data Structures",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Data Structures • 2 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      56.510000000000005,
+      56.53
+    ]
+  },
+  {
+    "id": "q040",
+    "topic": "Data Structures",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Data Structures • 2 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      62.79,
+      62.809999999999995
+    ]
+  },
+  {
+    "id": "q041",
+    "topic": "C Programming",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[C Programming • 1 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q042",
+    "topic": "C Programming",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[C Programming • 1 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q043",
+    "topic": "C Programming",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[C Programming • 1 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q044",
+    "topic": "C Programming",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[C Programming • 1 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q045",
+    "topic": "C Programming",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[C Programming • 1 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q046",
+    "topic": "C Programming",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[C Programming • 1 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q047",
+    "topic": "C Programming",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[C Programming • 1 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q048",
+    "topic": "C Programming",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[C Programming • 1 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q049",
+    "topic": "C Programming",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[C Programming • 1 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      28.25,
+      28.270000000000003
+    ]
+  },
+  {
+    "id": "q050",
+    "topic": "C Programming",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[C Programming • 1 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      31.389999999999997,
+      31.41
+    ]
+  },
+  {
+    "id": "q051",
+    "topic": "C Programming",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[C Programming • 2 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q052",
+    "topic": "C Programming",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[C Programming • 2 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q053",
+    "topic": "C Programming",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[C Programming • 2 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q054",
+    "topic": "C Programming",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[C Programming • 2 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q055",
+    "topic": "C Programming",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[C Programming • 2 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q056",
+    "topic": "C Programming",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[C Programming • 2 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q057",
+    "topic": "C Programming",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[C Programming • 2 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q058",
+    "topic": "C Programming",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[C Programming • 2 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q059",
+    "topic": "C Programming",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[C Programming • 2 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      56.510000000000005,
+      56.53
+    ]
+  },
+  {
+    "id": "q060",
+    "topic": "C Programming",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[C Programming • 2 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      62.79,
+      62.809999999999995
+    ]
+  },
+  {
+    "id": "q061",
+    "topic": "Compiler Design",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Compiler Design • 1 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q062",
+    "topic": "Compiler Design",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Compiler Design • 1 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q063",
+    "topic": "Compiler Design",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Compiler Design • 1 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q064",
+    "topic": "Compiler Design",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Compiler Design • 1 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q065",
+    "topic": "Compiler Design",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Compiler Design • 1 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q066",
+    "topic": "Compiler Design",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Compiler Design • 1 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q067",
+    "topic": "Compiler Design",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Compiler Design • 1 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q068",
+    "topic": "Compiler Design",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Compiler Design • 1 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q069",
+    "topic": "Compiler Design",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Compiler Design • 1 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      28.25,
+      28.270000000000003
+    ]
+  },
+  {
+    "id": "q070",
+    "topic": "Compiler Design",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Compiler Design • 1 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      31.389999999999997,
+      31.41
+    ]
+  },
+  {
+    "id": "q071",
+    "topic": "Compiler Design",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Compiler Design • 2 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q072",
+    "topic": "Compiler Design",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Compiler Design • 2 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q073",
+    "topic": "Compiler Design",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Compiler Design • 2 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q074",
+    "topic": "Compiler Design",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Compiler Design • 2 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q075",
+    "topic": "Compiler Design",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Compiler Design • 2 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q076",
+    "topic": "Compiler Design",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Compiler Design • 2 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q077",
+    "topic": "Compiler Design",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Compiler Design • 2 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q078",
+    "topic": "Compiler Design",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Compiler Design • 2 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q079",
+    "topic": "Compiler Design",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Compiler Design • 2 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      56.510000000000005,
+      56.53
+    ]
+  },
+  {
+    "id": "q080",
+    "topic": "Compiler Design",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Compiler Design • 2 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      62.79,
+      62.809999999999995
+    ]
+  },
+  {
+    "id": "q081",
+    "topic": "Theory of Computation",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Theory of Computation • 1 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q082",
+    "topic": "Theory of Computation",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Theory of Computation • 1 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q083",
+    "topic": "Theory of Computation",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Theory of Computation • 1 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q084",
+    "topic": "Theory of Computation",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Theory of Computation • 1 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q085",
+    "topic": "Theory of Computation",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Theory of Computation • 1 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q086",
+    "topic": "Theory of Computation",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Theory of Computation • 1 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q087",
+    "topic": "Theory of Computation",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Theory of Computation • 1 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q088",
+    "topic": "Theory of Computation",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Theory of Computation • 1 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q089",
+    "topic": "Theory of Computation",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Theory of Computation • 1 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      28.25,
+      28.270000000000003
+    ]
+  },
+  {
+    "id": "q090",
+    "topic": "Theory of Computation",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Theory of Computation • 1 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      31.389999999999997,
+      31.41
+    ]
+  },
+  {
+    "id": "q091",
+    "topic": "Theory of Computation",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Theory of Computation • 2 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q092",
+    "topic": "Theory of Computation",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Theory of Computation • 2 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q093",
+    "topic": "Theory of Computation",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Theory of Computation • 2 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q094",
+    "topic": "Theory of Computation",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Theory of Computation • 2 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q095",
+    "topic": "Theory of Computation",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Theory of Computation • 2 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q096",
+    "topic": "Theory of Computation",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Theory of Computation • 2 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q097",
+    "topic": "Theory of Computation",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Theory of Computation • 2 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q098",
+    "topic": "Theory of Computation",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Theory of Computation • 2 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q099",
+    "topic": "Theory of Computation",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Theory of Computation • 2 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      56.510000000000005,
+      56.53
+    ]
+  },
+  {
+    "id": "q100",
+    "topic": "Theory of Computation",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Theory of Computation • 2 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      62.79,
+      62.809999999999995
+    ]
+  },
+  {
+    "id": "q101",
+    "topic": "Operating Systems",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Operating Systems • 1 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q102",
+    "topic": "Operating Systems",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Operating Systems • 1 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q103",
+    "topic": "Operating Systems",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Operating Systems • 1 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q104",
+    "topic": "Operating Systems",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Operating Systems • 1 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q105",
+    "topic": "Operating Systems",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Operating Systems • 1 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q106",
+    "topic": "Operating Systems",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Operating Systems • 1 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q107",
+    "topic": "Operating Systems",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Operating Systems • 1 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q108",
+    "topic": "Operating Systems",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Operating Systems • 1 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q109",
+    "topic": "Operating Systems",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Operating Systems • 1 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      28.25,
+      28.270000000000003
+    ]
+  },
+  {
+    "id": "q110",
+    "topic": "Operating Systems",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Operating Systems • 1 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      31.389999999999997,
+      31.41
+    ]
+  },
+  {
+    "id": "q111",
+    "topic": "Operating Systems",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Operating Systems • 2 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q112",
+    "topic": "Operating Systems",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Operating Systems • 2 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q113",
+    "topic": "Operating Systems",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Operating Systems • 2 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q114",
+    "topic": "Operating Systems",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Operating Systems • 2 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q115",
+    "topic": "Operating Systems",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Operating Systems • 2 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q116",
+    "topic": "Operating Systems",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Operating Systems • 2 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q117",
+    "topic": "Operating Systems",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Operating Systems • 2 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q118",
+    "topic": "Operating Systems",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Operating Systems • 2 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q119",
+    "topic": "Operating Systems",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Operating Systems • 2 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      56.510000000000005,
+      56.53
+    ]
+  },
+  {
+    "id": "q120",
+    "topic": "Operating Systems",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Operating Systems • 2 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      62.79,
+      62.809999999999995
+    ]
+  },
+  {
+    "id": "q121",
+    "topic": "Computer Networks",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Computer Networks • 1 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q122",
+    "topic": "Computer Networks",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Computer Networks • 1 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q123",
+    "topic": "Computer Networks",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Computer Networks • 1 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q124",
+    "topic": "Computer Networks",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Computer Networks • 1 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q125",
+    "topic": "Computer Networks",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Computer Networks • 1 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q126",
+    "topic": "Computer Networks",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Computer Networks • 1 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q127",
+    "topic": "Computer Networks",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Computer Networks • 1 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q128",
+    "topic": "Computer Networks",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Computer Networks • 1 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q129",
+    "topic": "Computer Networks",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Computer Networks • 1 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      28.25,
+      28.270000000000003
+    ]
+  },
+  {
+    "id": "q130",
+    "topic": "Computer Networks",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Computer Networks • 1 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      31.389999999999997,
+      31.41
+    ]
+  },
+  {
+    "id": "q131",
+    "topic": "Computer Networks",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Computer Networks • 2 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q132",
+    "topic": "Computer Networks",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Computer Networks • 2 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q133",
+    "topic": "Computer Networks",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Computer Networks • 2 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q134",
+    "topic": "Computer Networks",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Computer Networks • 2 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q135",
+    "topic": "Computer Networks",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Computer Networks • 2 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q136",
+    "topic": "Computer Networks",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Computer Networks • 2 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q137",
+    "topic": "Computer Networks",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Computer Networks • 2 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q138",
+    "topic": "Computer Networks",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Computer Networks • 2 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q139",
+    "topic": "Computer Networks",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Computer Networks • 2 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      56.510000000000005,
+      56.53
+    ]
+  },
+  {
+    "id": "q140",
+    "topic": "Computer Networks",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Computer Networks • 2 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      62.79,
+      62.809999999999995
+    ]
+  },
+  {
+    "id": "q141",
+    "topic": "Computer Organization",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Computer Organization • 1 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q142",
+    "topic": "Computer Organization",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Computer Organization • 1 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q143",
+    "topic": "Computer Organization",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Computer Organization • 1 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q144",
+    "topic": "Computer Organization",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Computer Organization • 1 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q145",
+    "topic": "Computer Organization",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Computer Organization • 1 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q146",
+    "topic": "Computer Organization",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Computer Organization • 1 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q147",
+    "topic": "Computer Organization",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Computer Organization • 1 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q148",
+    "topic": "Computer Organization",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Computer Organization • 1 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q149",
+    "topic": "Computer Organization",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Computer Organization • 1 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      28.25,
+      28.270000000000003
+    ]
+  },
+  {
+    "id": "q150",
+    "topic": "Computer Organization",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Computer Organization • 1 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      31.389999999999997,
+      31.41
+    ]
+  },
+  {
+    "id": "q151",
+    "topic": "Computer Organization",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Computer Organization • 2 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q152",
+    "topic": "Computer Organization",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Computer Organization • 2 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q153",
+    "topic": "Computer Organization",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Computer Organization • 2 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q154",
+    "topic": "Computer Organization",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Computer Organization • 2 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q155",
+    "topic": "Computer Organization",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Computer Organization • 2 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q156",
+    "topic": "Computer Organization",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Computer Organization • 2 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q157",
+    "topic": "Computer Organization",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Computer Organization • 2 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q158",
+    "topic": "Computer Organization",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Computer Organization • 2 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q159",
+    "topic": "Computer Organization",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Computer Organization • 2 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      56.510000000000005,
+      56.53
+    ]
+  },
+  {
+    "id": "q160",
+    "topic": "Computer Organization",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Computer Organization • 2 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      62.79,
+      62.809999999999995
+    ]
+  },
+  {
+    "id": "q161",
+    "topic": "DBMS",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[DBMS • 1 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q162",
+    "topic": "DBMS",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[DBMS • 1 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q163",
+    "topic": "DBMS",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[DBMS • 1 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q164",
+    "topic": "DBMS",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[DBMS • 1 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q165",
+    "topic": "DBMS",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[DBMS • 1 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q166",
+    "topic": "DBMS",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[DBMS • 1 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q167",
+    "topic": "DBMS",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[DBMS • 1 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q168",
+    "topic": "DBMS",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[DBMS • 1 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q169",
+    "topic": "DBMS",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[DBMS • 1 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      28.25,
+      28.270000000000003
+    ]
+  },
+  {
+    "id": "q170",
+    "topic": "DBMS",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[DBMS • 1 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      31.389999999999997,
+      31.41
+    ]
+  },
+  {
+    "id": "q171",
+    "topic": "DBMS",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[DBMS • 2 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q172",
+    "topic": "DBMS",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[DBMS • 2 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q173",
+    "topic": "DBMS",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[DBMS • 2 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q174",
+    "topic": "DBMS",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[DBMS • 2 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q175",
+    "topic": "DBMS",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[DBMS • 2 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q176",
+    "topic": "DBMS",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[DBMS • 2 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q177",
+    "topic": "DBMS",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[DBMS • 2 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q178",
+    "topic": "DBMS",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[DBMS • 2 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q179",
+    "topic": "DBMS",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[DBMS • 2 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      56.510000000000005,
+      56.53
+    ]
+  },
+  {
+    "id": "q180",
+    "topic": "DBMS",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[DBMS • 2 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      62.79,
+      62.809999999999995
+    ]
+  },
+  {
+    "id": "q181",
+    "topic": "Discrete Mathematics",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Discrete Mathematics • 1 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q182",
+    "topic": "Discrete Mathematics",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Discrete Mathematics • 1 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q183",
+    "topic": "Discrete Mathematics",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Discrete Mathematics • 1 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q184",
+    "topic": "Discrete Mathematics",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Discrete Mathematics • 1 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q185",
+    "topic": "Discrete Mathematics",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Discrete Mathematics • 1 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q186",
+    "topic": "Discrete Mathematics",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Discrete Mathematics • 1 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q187",
+    "topic": "Discrete Mathematics",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Discrete Mathematics • 1 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q188",
+    "topic": "Discrete Mathematics",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Discrete Mathematics • 1 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q189",
+    "topic": "Discrete Mathematics",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Discrete Mathematics • 1 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      28.25,
+      28.270000000000003
+    ]
+  },
+  {
+    "id": "q190",
+    "topic": "Discrete Mathematics",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Discrete Mathematics • 1 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      31.389999999999997,
+      31.41
+    ]
+  },
+  {
+    "id": "q191",
+    "topic": "Discrete Mathematics",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Discrete Mathematics • 2 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q192",
+    "topic": "Discrete Mathematics",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Discrete Mathematics • 2 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q193",
+    "topic": "Discrete Mathematics",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Discrete Mathematics • 2 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q194",
+    "topic": "Discrete Mathematics",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Discrete Mathematics • 2 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q195",
+    "topic": "Discrete Mathematics",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Discrete Mathematics • 2 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q196",
+    "topic": "Discrete Mathematics",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Discrete Mathematics • 2 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q197",
+    "topic": "Discrete Mathematics",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Discrete Mathematics • 2 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q198",
+    "topic": "Discrete Mathematics",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Discrete Mathematics • 2 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q199",
+    "topic": "Discrete Mathematics",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Discrete Mathematics • 2 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      56.510000000000005,
+      56.53
+    ]
+  },
+  {
+    "id": "q200",
+    "topic": "Discrete Mathematics",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Discrete Mathematics • 2 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      62.79,
+      62.809999999999995
+    ]
+  },
+  {
+    "id": "q201",
+    "topic": "Probability",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Probability • 1 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q202",
+    "topic": "Probability",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Probability • 1 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q203",
+    "topic": "Probability",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Probability • 1 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q204",
+    "topic": "Probability",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Probability • 1 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q205",
+    "topic": "Probability",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Probability • 1 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q206",
+    "topic": "Probability",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Probability • 1 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q207",
+    "topic": "Probability",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Probability • 1 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q208",
+    "topic": "Probability",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Probability • 1 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q209",
+    "topic": "Probability",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Probability • 1 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      28.25,
+      28.270000000000003
+    ]
+  },
+  {
+    "id": "q210",
+    "topic": "Probability",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Probability • 1 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      31.389999999999997,
+      31.41
+    ]
+  },
+  {
+    "id": "q211",
+    "topic": "Probability",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Probability • 2 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q212",
+    "topic": "Probability",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Probability • 2 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q213",
+    "topic": "Probability",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Probability • 2 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q214",
+    "topic": "Probability",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Probability • 2 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q215",
+    "topic": "Probability",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Probability • 2 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q216",
+    "topic": "Probability",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Probability • 2 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q217",
+    "topic": "Probability",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Probability • 2 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q218",
+    "topic": "Probability",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Probability • 2 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q219",
+    "topic": "Probability",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Probability • 2 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      56.510000000000005,
+      56.53
+    ]
+  },
+  {
+    "id": "q220",
+    "topic": "Probability",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Probability • 2 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      62.79,
+      62.809999999999995
+    ]
+  },
+  {
+    "id": "q221",
+    "topic": "Digital Logic",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Digital Logic • 1 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q222",
+    "topic": "Digital Logic",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Digital Logic • 1 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q223",
+    "topic": "Digital Logic",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Digital Logic • 1 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q224",
+    "topic": "Digital Logic",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Digital Logic • 1 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q225",
+    "topic": "Digital Logic",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Digital Logic • 1 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q226",
+    "topic": "Digital Logic",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Digital Logic • 1 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q227",
+    "topic": "Digital Logic",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Digital Logic • 1 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q228",
+    "topic": "Digital Logic",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Digital Logic • 1 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q229",
+    "topic": "Digital Logic",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Digital Logic • 1 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      28.25,
+      28.270000000000003
+    ]
+  },
+  {
+    "id": "q230",
+    "topic": "Digital Logic",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Digital Logic • 1 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      31.389999999999997,
+      31.41
+    ]
+  },
+  {
+    "id": "q231",
+    "topic": "Digital Logic",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Digital Logic • 2 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q232",
+    "topic": "Digital Logic",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Digital Logic • 2 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q233",
+    "topic": "Digital Logic",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Digital Logic • 2 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q234",
+    "topic": "Digital Logic",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Digital Logic • 2 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q235",
+    "topic": "Digital Logic",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Digital Logic • 2 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q236",
+    "topic": "Digital Logic",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Digital Logic • 2 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q237",
+    "topic": "Digital Logic",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Digital Logic • 2 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q238",
+    "topic": "Digital Logic",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Digital Logic • 2 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q239",
+    "topic": "Digital Logic",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Digital Logic • 2 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      56.510000000000005,
+      56.53
+    ]
+  },
+  {
+    "id": "q240",
+    "topic": "Digital Logic",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Digital Logic • 2 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      62.79,
+      62.809999999999995
+    ]
+  },
+  {
+    "id": "q241",
+    "topic": "Engineering Mathematics",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Engineering Mathematics • 1 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q242",
+    "topic": "Engineering Mathematics",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Engineering Mathematics • 1 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q243",
+    "topic": "Engineering Mathematics",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Engineering Mathematics • 1 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q244",
+    "topic": "Engineering Mathematics",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Engineering Mathematics • 1 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q245",
+    "topic": "Engineering Mathematics",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Engineering Mathematics • 1 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q246",
+    "topic": "Engineering Mathematics",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Engineering Mathematics • 1 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q247",
+    "topic": "Engineering Mathematics",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Engineering Mathematics • 1 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q248",
+    "topic": "Engineering Mathematics",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Engineering Mathematics • 1 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q249",
+    "topic": "Engineering Mathematics",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Engineering Mathematics • 1 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      28.25,
+      28.270000000000003
+    ]
+  },
+  {
+    "id": "q250",
+    "topic": "Engineering Mathematics",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Engineering Mathematics • 1 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      31.389999999999997,
+      31.41
+    ]
+  },
+  {
+    "id": "q251",
+    "topic": "Engineering Mathematics",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Engineering Mathematics • 2 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q252",
+    "topic": "Engineering Mathematics",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Engineering Mathematics • 2 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q253",
+    "topic": "Engineering Mathematics",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Engineering Mathematics • 2 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q254",
+    "topic": "Engineering Mathematics",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Engineering Mathematics • 2 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q255",
+    "topic": "Engineering Mathematics",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Engineering Mathematics • 2 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q256",
+    "topic": "Engineering Mathematics",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Engineering Mathematics • 2 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q257",
+    "topic": "Engineering Mathematics",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Engineering Mathematics • 2 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q258",
+    "topic": "Engineering Mathematics",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Engineering Mathematics • 2 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q259",
+    "topic": "Engineering Mathematics",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Engineering Mathematics • 2 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      56.510000000000005,
+      56.53
+    ]
+  },
+  {
+    "id": "q260",
+    "topic": "Engineering Mathematics",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Engineering Mathematics • 2 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      62.79,
+      62.809999999999995
+    ]
+  },
+  {
+    "id": "q261",
+    "topic": "Aptitude",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Aptitude • 1 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q262",
+    "topic": "Aptitude",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Aptitude • 1 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q263",
+    "topic": "Aptitude",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Aptitude • 1 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q264",
+    "topic": "Aptitude",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Aptitude • 1 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q265",
+    "topic": "Aptitude",
+    "marks": 1,
+    "type": "MCQ",
+    "text": "[Aptitude • 1 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q266",
+    "topic": "Aptitude",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Aptitude • 1 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q267",
+    "topic": "Aptitude",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Aptitude • 1 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q268",
+    "topic": "Aptitude",
+    "marks": 1,
+    "type": "MSQ",
+    "text": "[Aptitude • 1 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q269",
+    "topic": "Aptitude",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Aptitude • 1 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      28.25,
+      28.270000000000003
+    ]
+  },
+  {
+    "id": "q270",
+    "topic": "Aptitude",
+    "marks": 1,
+    "type": "NAT",
+    "text": "[Aptitude • 1 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      31.389999999999997,
+      31.41
+    ]
+  },
+  {
+    "id": "q271",
+    "topic": "Aptitude",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Aptitude • 2 mark • MCQ] Sample question 1. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q272",
+    "topic": "Aptitude",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Aptitude • 2 mark • MCQ] Sample question 2. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q273",
+    "topic": "Aptitude",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Aptitude • 2 mark • MCQ] Sample question 3. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q274",
+    "topic": "Aptitude",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Aptitude • 2 mark • MCQ] Sample question 4. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q275",
+    "topic": "Aptitude",
+    "marks": 2,
+    "type": "MCQ",
+    "text": "[Aptitude • 2 mark • MCQ] Sample question 5. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q276",
+    "topic": "Aptitude",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Aptitude • 2 mark • MSQ] Sample question 6. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q277",
+    "topic": "Aptitude",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Aptitude • 2 mark • MSQ] Sample question 7. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": "q278",
+    "topic": "Aptitude",
+    "marks": 2,
+    "type": "MSQ",
+    "text": "[Aptitude • 2 mark • MSQ] Sample question 8. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "options": [
+      "Choice P",
+      "Choice Q",
+      "Choice R",
+      "Choice S"
+    ],
+    "answer": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": "q279",
+    "topic": "Aptitude",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Aptitude • 2 mark • NAT] Sample question 9. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      56.510000000000005,
+      56.53
+    ]
+  },
+  {
+    "id": "q280",
+    "topic": "Aptitude",
+    "marks": 2,
+    "type": "NAT",
+    "text": "[Aptitude • 2 mark • NAT] Sample question 10. Replace with real GATE content. Consider $f(n) = O(n \\\\log n)$ for $n \\\\ge 1$.",
+    "explanation": "Sample explanation. Replace with real solution.",
+    "answer": [
+      62.79,
+      62.809999999999995
+    ]
+  }
+]
