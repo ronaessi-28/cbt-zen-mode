@@ -2208,1799 +2208,1656 @@
     "topic": "DBMS",
     "marks": 1,
     "type": "MCQ",
-    "text": "[DBMS • 1 mark • MCQ] Placeholder question 1. (Not provided in source PDF — replace with real content.)",
+    "text": "Which normal form eliminates partial dependencies on a composite primary key?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "1NF",
+      "2NF",
+      "3NF",
+      "BCNF"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q162",
     "topic": "DBMS",
     "marks": 1,
     "type": "MCQ",
-    "text": "[DBMS • 1 mark • MCQ] Placeholder question 2. (Not provided in source PDF — replace with real content.)",
+    "text": "Which SQL clause is used to filter groups after aggregation?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "WHERE",
+      "GROUP BY",
+      "HAVING",
+      "ORDER BY"
     ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 2
   },
   {
     "id": "q163",
     "topic": "DBMS",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[DBMS • 1 mark • MCQ] Placeholder question 3. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "A relation R(A,B,C,D) has FDs $\\{A\\to B, B\\to C, C\\to D\\}$. Number of attributes in the closure $\\{A\\}^+$?",
+    "answer": [
+      4,
+      4
+    ]
   },
   {
     "id": "q164",
     "topic": "DBMS",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[DBMS • 1 mark • MCQ] Placeholder question 4. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which of the following are properties of transactions (ACID)?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Atomicity",
+      "Consistency",
+      "Isolation",
+      "Durability"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "q165",
     "topic": "DBMS",
     "marks": 1,
     "type": "MCQ",
-    "text": "[DBMS • 1 mark • MCQ] Placeholder question 5. (Not provided in source PDF — replace with real content.)",
+    "text": "Which join returns all rows from both relations, with NULLs for non-matching tuples?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Inner Join",
+      "Left Outer Join",
+      "Right Outer Join",
+      "Full Outer Join"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 3
   },
   {
     "id": "q166",
     "topic": "DBMS",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[DBMS • 1 mark • MCQ] Placeholder question 6. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "A B+ tree of order 4 has 100 leaf-level keys. Minimum number of leaf nodes?",
+    "answer": [
+      34,
+      34
+    ]
   },
   {
     "id": "q167",
     "topic": "DBMS",
     "marks": 1,
     "type": "MCQ",
-    "text": "[DBMS • 1 mark • MCQ] Placeholder question 7. (Not provided in source PDF — replace with real content.)",
+    "text": "Which lock is required by 2PL before a transaction reads a data item?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Exclusive lock only",
+      "Shared or Exclusive lock",
+      "No lock",
+      "Intent lock only"
     ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q168",
     "topic": "DBMS",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[DBMS • 1 mark • MCQ] Placeholder question 8. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which of the following anomalies can occur in concurrent execution?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Dirty Read",
+      "Lost Update",
+      "Phantom Read",
+      "Compilation Error"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "q169",
     "topic": "DBMS",
     "marks": 1,
     "type": "MCQ",
-    "text": "[DBMS • 1 mark • MCQ] Placeholder question 9. (Not provided in source PDF — replace with real content.)",
+    "text": "Which command in SQL is a DDL command?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "SELECT",
+      "INSERT",
+      "ALTER",
+      "UPDATE"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 2
   },
   {
     "id": "q170",
     "topic": "DBMS",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[DBMS • 1 mark • MCQ] Placeholder question 10. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "A relation has 5 attributes. Maximum number of superkeys if every attribute combination is a superkey?",
+    "answer": [
+      31,
+      31
+    ]
   },
   {
     "id": "q171",
     "topic": "DBMS",
     "marks": 2,
     "type": "MCQ",
-    "text": "[DBMS • 2 mark • MCQ] Placeholder question 1. (Not provided in source PDF — replace with real content.)",
+    "text": "Consider R(A,B,C,D,E) with FDs $\\{A\\to BC, CD\\to E, B\\to D, E\\to A\\}$. Which is a candidate key?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "A",
+      "B",
+      "CD",
+      "All of A, E, CD, BC"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 3
   },
   {
     "id": "q172",
     "topic": "DBMS",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[DBMS • 2 mark • MCQ] Placeholder question 2. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "A transaction schedule has 4 transactions, each with 3 operations. Maximum number of distinct serial schedules?",
+    "answer": [
+      24,
+      24
+    ]
   },
   {
     "id": "q173",
     "topic": "DBMS",
     "marks": 2,
     "type": "MCQ",
-    "text": "[DBMS • 2 mark • MCQ] Placeholder question 3. (Not provided in source PDF — replace with real content.)",
+    "text": "A relation has 1000 tuples, each 200 bytes. Block size = 4 KB. Number of blocks required (unspanned)?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "50",
+      "60",
+      "100",
+      "200"
     ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 0
   },
   {
     "id": "q174",
     "topic": "DBMS",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[DBMS • 2 mark • MCQ] Placeholder question 4. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which of the following statements are TRUE about BCNF?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Every BCNF relation is in 3NF.",
+      "Every 3NF relation is in BCNF.",
+      "BCNF may not preserve all FDs.",
+      "BCNF is always lossless decomposable."
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      2,
+      3
+    ]
   },
   {
     "id": "q175",
     "topic": "DBMS",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[DBMS • 2 mark • MCQ] Placeholder question 5. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "In a hash-based index with 8 buckets and 64 records uniformly distributed, average records per bucket?",
+    "answer": [
+      8,
+      8
+    ]
   },
   {
     "id": "q176",
     "topic": "DBMS",
     "marks": 2,
     "type": "MCQ",
-    "text": "[DBMS • 2 mark • MCQ] Placeholder question 6. (Not provided in source PDF — replace with real content.)",
+    "text": "Which schedule is conflict serializable?\n S: $r_1(A), w_1(A), r_2(A), w_2(A)$",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Yes, equivalent to $T_1, T_2$",
+      "Yes, equivalent to $T_2, T_1$",
+      "No, has a cycle",
+      "Not enough info"
     ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 0
   },
   {
     "id": "q177",
     "topic": "DBMS",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[DBMS • 2 mark • MCQ] Placeholder question 7. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "Relation R has 4 attributes. Number of possible non-trivial functional dependencies of form $X\\to Y$ where $X$ is a single attribute and $Y$ is a single different attribute?",
+    "answer": [
+      12,
+      12
+    ]
   },
   {
     "id": "q178",
     "topic": "DBMS",
     "marks": 2,
     "type": "MCQ",
-    "text": "[DBMS • 2 mark • MCQ] Placeholder question 8. (Not provided in source PDF — replace with real content.)",
+    "text": "Strict 2PL guarantees:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Serializability only",
+      "Recoverability only",
+      "Serializability and freedom from cascading aborts",
+      "Deadlock freedom"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 2
   },
   {
     "id": "q179",
     "topic": "DBMS",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[DBMS • 2 mark • MCQ] Placeholder question 9. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which are valid relational algebra operations?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Selection ($\\sigma$)",
+      "Projection ($\\pi$)",
+      "Natural Join ($\\bowtie$)",
+      "GROUP BY"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "q180",
     "topic": "DBMS",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[DBMS • 2 mark • MCQ] Placeholder question 10. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "ER diagram with 3 entities and a ternary relationship maps to how many relational tables (minimum, no merging)?",
+    "answer": [
+      4,
+      4
+    ]
   },
   {
     "id": "q181",
     "topic": "Discrete Mathematics",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Discrete Mathematics • 1 mark • MCQ] Placeholder question 1. (Not provided in source PDF — replace with real content.)",
+    "text": "The number of subsets of a set of size 6 is:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "32",
+      "36",
+      "64",
+      "128"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 2
   },
   {
     "id": "q182",
     "topic": "Discrete Mathematics",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Discrete Mathematics • 1 mark • MCQ] Placeholder question 2. (Not provided in source PDF — replace with real content.)",
+    "text": "Which of the following propositions is a tautology?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "$p \\land \\neg p$",
+      "$p \\lor \\neg p$",
+      "$p \\to \\neg p$",
+      "$p \\leftrightarrow \\neg p$"
     ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q183",
     "topic": "Discrete Mathematics",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Discrete Mathematics • 1 mark • MCQ] Placeholder question 3. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "How many distinct permutations of the word \"LEVEL\" exist?",
+    "answer": [
+      30,
+      30
+    ]
   },
   {
     "id": "q184",
     "topic": "Discrete Mathematics",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Discrete Mathematics • 1 mark • MCQ] Placeholder question 4. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which relations on $\\mathbb{Z}$ are equivalence relations?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "$a R b$ iff $a=b$",
+      "$a R b$ iff $a-b$ is even",
+      "$a R b$ iff $a \\le b$",
+      "$a R b$ iff $a \\equiv b \\pmod 5$"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      1,
+      3
+    ]
   },
   {
     "id": "q185",
     "topic": "Discrete Mathematics",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Discrete Mathematics • 1 mark • MCQ] Placeholder question 5. (Not provided in source PDF — replace with real content.)",
+    "text": "In a graph $G$ with 10 vertices, each of degree 4, the number of edges is:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "10",
+      "20",
+      "40",
+      "5"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q186",
     "topic": "Discrete Mathematics",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Discrete Mathematics • 1 mark • MCQ] Placeholder question 6. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "Number of functions from a set of size 3 to a set of size 4?",
+    "answer": [
+      64,
+      64
+    ]
   },
   {
     "id": "q187",
     "topic": "Discrete Mathematics",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Discrete Mathematics • 1 mark • MCQ] Placeholder question 7. (Not provided in source PDF — replace with real content.)",
+    "text": "The contrapositive of \"If $p$ then $q$\" is:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "If $q$ then $p$",
+      "If $\\neg p$ then $\\neg q$",
+      "If $\\neg q$ then $\\neg p$",
+      "If $p$ then $\\neg q$"
     ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 2
   },
   {
     "id": "q188",
     "topic": "Discrete Mathematics",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Discrete Mathematics • 1 mark • MCQ] Placeholder question 8. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which of the following are partial orders on $\\mathbb{Z}^+$?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Divisibility ($a \\mid b$)",
+      "$\\le$",
+      "Strict less-than $<$",
+      "Equality"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      1,
+      3
+    ]
   },
   {
     "id": "q189",
     "topic": "Discrete Mathematics",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Discrete Mathematics • 1 mark • MCQ] Placeholder question 9. (Not provided in source PDF — replace with real content.)",
+    "text": "A complete bipartite graph $K_{3,4}$ has how many edges?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "7",
+      "12",
+      "21",
+      "24"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q190",
     "topic": "Discrete Mathematics",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Discrete Mathematics • 1 mark • MCQ] Placeholder question 10. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "How many 4-digit numbers can be formed from digits {1,2,3,4,5} without repetition?",
+    "answer": [
+      120,
+      120
+    ]
   },
   {
     "id": "q191",
     "topic": "Discrete Mathematics",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Discrete Mathematics • 2 mark • MCQ] Placeholder question 1. (Not provided in source PDF — replace with real content.)",
+    "text": "Number of bijections from a set of 5 elements to itself:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "25",
+      "32",
+      "120",
+      "625"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 2
   },
   {
     "id": "q192",
     "topic": "Discrete Mathematics",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Discrete Mathematics • 2 mark • MCQ] Placeholder question 2. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "In how many ways can 8 people be seated around a circular table?",
+    "answer": [
+      5040,
+      5040
+    ]
   },
   {
     "id": "q193",
     "topic": "Discrete Mathematics",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Discrete Mathematics • 2 mark • MCQ] Placeholder question 3. (Not provided in source PDF — replace with real content.)",
+    "text": "Number of edges in a tree with 50 vertices:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "48",
+      "49",
+      "50",
+      "51"
     ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q194",
     "topic": "Discrete Mathematics",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Discrete Mathematics • 2 mark • MCQ] Placeholder question 4. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which of the following graphs always contain an Eulerian circuit?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "$K_5$",
+      "$K_6$",
+      "$K_{2,3}$",
+      "$K_{3,3}$"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0
+    ]
   },
   {
     "id": "q195",
     "topic": "Discrete Mathematics",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Discrete Mathematics • 2 mark • MCQ] Placeholder question 5. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "Number of distinct binary strings of length 8 with exactly three 1s?",
+    "answer": [
+      56,
+      56
+    ]
   },
   {
     "id": "q196",
     "topic": "Discrete Mathematics",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Discrete Mathematics • 2 mark • MCQ] Placeholder question 6. (Not provided in source PDF — replace with real content.)",
+    "text": "Generating function for the sequence $a_n = 1$ for all $n \\ge 0$:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "$1/(1-x)$",
+      "$1/(1-x)^2$",
+      "$e^x$",
+      "$\\ln(1-x)$"
     ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 0
   },
   {
     "id": "q197",
     "topic": "Discrete Mathematics",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Discrete Mathematics • 2 mark • MCQ] Placeholder question 7. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+    "type": "NAT",
+    "text": "How many ways to distribute 10 identical balls into 4 distinct boxes?",
+    "answer": [
+      286,
+      286
     ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "explanation": "$\\binom{10+4-1}{4-1}=\\binom{13}{3}=286$"
   },
   {
     "id": "q198",
     "topic": "Discrete Mathematics",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Discrete Mathematics • 2 mark • MCQ] Placeholder question 8. (Not provided in source PDF — replace with real content.)",
+    "text": "The chromatic number of an odd cycle $C_{2k+1}$ is:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 2
   },
   {
     "id": "q199",
     "topic": "Discrete Mathematics",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Discrete Mathematics • 2 mark • MCQ] Placeholder question 9. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which Boolean expressions are tautologies?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "$p \\lor (p \\to q)$",
+      "$(p \\land q) \\to p$",
+      "$p \\to (p \\lor q)$",
+      "$(p \\to q) \\to p$"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "q200",
     "topic": "Discrete Mathematics",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Discrete Mathematics • 2 mark • MCQ] Placeholder question 10. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "Pigeonhole: minimum number of people needed to guarantee at least 3 share the same birth month?",
+    "answer": [
+      25,
+      25
+    ]
   },
   {
     "id": "q201",
     "topic": "Probability",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Probability • 1 mark • MCQ] Placeholder question 1. (Not provided in source PDF — replace with real content.)",
+    "text": "A fair die is rolled. Probability of getting an even number?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 2
   },
   {
     "id": "q202",
     "topic": "Probability",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Probability • 1 mark • MCQ] Placeholder question 2. (Not provided in source PDF — replace with real content.)",
+    "text": "If $P(A)=0.4$, $P(B)=0.5$, $A$ and $B$ are independent. Then $P(A \\cap B)$ is:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "0.1",
+      "0.2",
+      "0.5",
+      "0.9"
     ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q203",
     "topic": "Probability",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Probability • 1 mark • MCQ] Placeholder question 3. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "A fair coin is tossed 3 times. Probability of exactly 2 heads (write as decimal, 3 places)?",
+    "answer": [
+      0.374,
+      0.376
+    ]
   },
   {
     "id": "q204",
     "topic": "Probability",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Probability • 1 mark • MCQ] Placeholder question 4. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which of the following are valid probability values?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "0",
+      "0.5",
+      "1",
+      "1.2"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "q205",
     "topic": "Probability",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Probability • 1 mark • MCQ] Placeholder question 5. (Not provided in source PDF — replace with real content.)",
+    "text": "If $X \\sim \\text{Bernoulli}(p)$, then $E[X]$ is:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "0",
+      "$p$",
+      "$1-p$",
+      "$p(1-p)$"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q206",
     "topic": "Probability",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Probability • 1 mark • MCQ] Placeholder question 6. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "Two fair dice are rolled. Probability that the sum equals 7? (decimal, 4 places)",
+    "answer": [
+      0.1666,
+      0.1668
+    ]
   },
   {
     "id": "q207",
     "topic": "Probability",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Probability • 1 mark • MCQ] Placeholder question 7. (Not provided in source PDF — replace with real content.)",
+    "text": "The variance of a fair die roll is closest to:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "1.50",
+      "2.92",
+      "3.50",
+      "5.00"
     ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q208",
     "topic": "Probability",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Probability • 1 mark • MCQ] Placeholder question 8. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which are properties of the normal distribution?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Symmetric about the mean",
+      "Bell-shaped",
+      "Mean = Median = Mode",
+      "Discrete"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "q209",
     "topic": "Probability",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Probability • 1 mark • MCQ] Placeholder question 9. (Not provided in source PDF — replace with real content.)",
+    "text": "Bayes' theorem expresses:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "$P(A \\cap B)$",
+      "$P(A|B)$ in terms of $P(B|A)$",
+      "$P(A \\cup B)$",
+      "$P(A) + P(B)$"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q210",
     "topic": "Probability",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Probability • 1 mark • MCQ] Placeholder question 10. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "A bag contains 3 red and 7 blue balls. Probability of drawing a red ball? (decimal)",
+    "answer": [
+      0.29,
+      0.31
+    ]
   },
   {
     "id": "q211",
     "topic": "Probability",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Probability • 2 mark • MCQ] Placeholder question 1. (Not provided in source PDF — replace with real content.)",
+    "text": "A box has 5 defective and 15 good items. Two are drawn without replacement. Probability both are defective?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "1/19",
+      "2/19",
+      "1/20",
+      "1/12"
     ],
     "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "explanation": "$5/20 \\cdot 4/19 = 20/380 = 1/19$"
   },
   {
     "id": "q212",
     "topic": "Probability",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Probability • 2 mark • MCQ] Placeholder question 2. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "Mean of a binomial distribution with $n=20$, $p=0.3$?",
+    "answer": [
+      6,
+      6
+    ]
   },
   {
     "id": "q213",
     "topic": "Probability",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Probability • 2 mark • MCQ] Placeholder question 3. (Not provided in source PDF — replace with real content.)",
+    "text": "If $X$ is uniform on $[0,10]$, then $E[X]$ and $\\text{Var}(X)$ are:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "5, 100/12",
+      "5, 10",
+      "10, 100/12",
+      "5, 25/3"
     ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 0
   },
   {
     "id": "q214",
     "topic": "Probability",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Probability • 2 mark • MCQ] Placeholder question 4. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which statements are true about expectation?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "$E[X+Y]=E[X]+E[Y]$ always",
+      "$E[cX]=cE[X]$",
+      "$E[XY]=E[X]E[Y]$ only if independent",
+      "$E[X^2] \\ge (E[X])^2$"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ]
   },
   {
     "id": "q215",
     "topic": "Probability",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Probability • 2 mark • MCQ] Placeholder question 5. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "$P(A)=0.6, P(B)=0.5, P(A \\cup B)=0.8$. Find $P(A \\cap B)$ (decimal).",
+    "answer": [
+      0.29,
+      0.31
+    ]
   },
   {
     "id": "q216",
     "topic": "Probability",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Probability • 2 mark • MCQ] Placeholder question 6. (Not provided in source PDF — replace with real content.)",
+    "text": "A coin is biased with $P(H)=0.7$. Probability of getting first head on the 3rd toss?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "0.063",
+      "0.147",
+      "0.21",
+      "0.343"
     ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 0,
+    "explanation": "$0.3 \\cdot 0.3 \\cdot 0.7 = 0.063$"
   },
   {
     "id": "q217",
     "topic": "Probability",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Probability • 2 mark • MCQ] Placeholder question 7. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "Expected number of tosses of a fair coin to get the first head?",
+    "answer": [
+      2,
+      2
+    ]
   },
   {
     "id": "q218",
     "topic": "Probability",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Probability • 2 mark • MCQ] Placeholder question 8. (Not provided in source PDF — replace with real content.)",
+    "text": "If $X \\sim \\text{Poisson}(\\lambda=2)$, then $P(X=0)$ is:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "$e^{-2}$",
+      "$2e^{-2}$",
+      "$1-e^{-2}$",
+      "$1/2$"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 0
   },
   {
     "id": "q219",
     "topic": "Probability",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Probability • 2 mark • MCQ] Placeholder question 9. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which are TRUE about the Central Limit Theorem?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Sample mean approaches normal as $n \\to \\infty$",
+      "Requires finite variance",
+      "Works only for normal populations",
+      "Mean of sample mean = population mean"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      1,
+      3
+    ]
   },
   {
     "id": "q220",
     "topic": "Probability",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Probability • 2 mark • MCQ] Placeholder question 10. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+    "type": "NAT",
+    "text": "3 cards are drawn from a 52-card deck without replacement. Probability all 3 are aces? (decimal, 5 places)",
+    "answer": [
+      0.00018,
+      0.00019
     ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "explanation": "$\\frac{4 \\cdot 3 \\cdot 2}{52 \\cdot 51 \\cdot 50} = 0.000181$"
   },
   {
     "id": "q221",
     "topic": "Digital Logic",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Digital Logic • 1 mark • MCQ] Placeholder question 1. (Not provided in source PDF — replace with real content.)",
+    "text": "The Boolean expression $A + \\bar{A}B$ simplifies to:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "$A$",
+      "$B$",
+      "$A+B$",
+      "$AB$"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 2
   },
   {
     "id": "q222",
     "topic": "Digital Logic",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Digital Logic • 1 mark • MCQ] Placeholder question 2. (Not provided in source PDF — replace with real content.)",
+    "text": "The 2's complement of binary 1010 (4-bit) is:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "0101",
+      "0110",
+      "1010",
+      "1001"
     ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q223",
     "topic": "Digital Logic",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Digital Logic • 1 mark • MCQ] Placeholder question 3. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "How many select lines are needed for an 8-to-1 multiplexer?",
+    "answer": [
+      3,
+      3
+    ]
   },
   {
     "id": "q224",
     "topic": "Digital Logic",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Digital Logic • 1 mark • MCQ] Placeholder question 4. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which gates are universal?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "NAND",
+      "NOR",
+      "AND",
+      "OR"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      1
+    ]
   },
   {
     "id": "q225",
     "topic": "Digital Logic",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Digital Logic • 1 mark • MCQ] Placeholder question 5. (Not provided in source PDF — replace with real content.)",
+    "text": "A full adder has how many input bits?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 2
   },
   {
     "id": "q226",
     "topic": "Digital Logic",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Digital Logic • 1 mark • MCQ] Placeholder question 6. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "Decimal value of binary 11011?",
+    "answer": [
+      27,
+      27
+    ]
   },
   {
     "id": "q227",
     "topic": "Digital Logic",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Digital Logic • 1 mark • MCQ] Placeholder question 7. (Not provided in source PDF — replace with real content.)",
+    "text": "Which flip-flop has the \"toggle\" property when both inputs are 1?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "SR",
+      "D",
+      "JK",
+      "T"
     ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 2
   },
   {
     "id": "q228",
     "topic": "Digital Logic",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Digital Logic • 1 mark • MCQ] Placeholder question 8. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which are synchronous circuits?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Counter clocked by CLK",
+      "Ripple counter",
+      "Shift register",
+      "Combinational adder"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      2
+    ]
   },
   {
     "id": "q229",
     "topic": "Digital Logic",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Digital Logic • 1 mark • MCQ] Placeholder question 9. (Not provided in source PDF — replace with real content.)",
+    "text": "The output of a 3-input XOR gate is 1 when:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "All inputs are 1",
+      "Exactly one input is 1",
+      "Odd number of inputs are 1",
+      "Even number of inputs are 1"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 2
   },
   {
     "id": "q230",
     "topic": "Digital Logic",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Digital Logic • 1 mark • MCQ] Placeholder question 10. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "Hexadecimal value of decimal 255? (Answer as decimal: e.g. FF = 255 → enter 255 if base-10 representation, or count of hex digits.) Enter the number of bits required to represent 255 in unsigned binary.",
+    "answer": [
+      8,
+      8
+    ]
   },
   {
     "id": "q231",
     "topic": "Digital Logic",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Digital Logic • 2 mark • MCQ] Placeholder question 1. (Not provided in source PDF — replace with real content.)",
+    "text": "Number of min-terms for a 4-variable Boolean function?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "8",
+      "16",
+      "24",
+      "32"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q232",
     "topic": "Digital Logic",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Digital Logic • 2 mark • MCQ] Placeholder question 2. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "A modulo-12 synchronous counter requires minimum how many flip-flops?",
+    "answer": [
+      4,
+      4
+    ]
   },
   {
     "id": "q233",
     "topic": "Digital Logic",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Digital Logic • 2 mark • MCQ] Placeholder question 3. (Not provided in source PDF — replace with real content.)",
+    "text": "Simplification of $F(A,B,C) = \\sum m(0,1,2,3)$ gives:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "$\\bar A$",
+      "$\\bar B$",
+      "$A$",
+      "$B$"
     ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 0
   },
   {
     "id": "q234",
     "topic": "Digital Logic",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Digital Logic • 2 mark • MCQ] Placeholder question 4. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which statements are TRUE?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "A decoder has $2^n$ outputs for $n$ inputs.",
+      "A demultiplexer is a 1-to-many distributor.",
+      "An encoder has more outputs than inputs.",
+      "A multiplexer is a many-to-1 selector."
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      1,
+      3
+    ]
   },
   {
     "id": "q235",
     "topic": "Digital Logic",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Digital Logic • 2 mark • MCQ] Placeholder question 5. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "A 4-bit ripple counter has a propagation delay of 10 ns per flip-flop. Worst-case total delay (ns)?",
+    "answer": [
+      40,
+      40
+    ]
   },
   {
     "id": "q236",
     "topic": "Digital Logic",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Digital Logic • 2 mark • MCQ] Placeholder question 6. (Not provided in source PDF — replace with real content.)",
+    "text": "Hamming distance between 10110 and 11011 is:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 2
   },
   {
     "id": "q237",
     "topic": "Digital Logic",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Digital Logic • 2 mark • MCQ] Placeholder question 7. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+    "type": "NAT",
+    "text": "Number of essential prime implicants for $F = \\sum m(0,2,5,7)$ over 3 variables?",
+    "answer": [
+      4,
+      4
     ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "explanation": "Each minterm is isolated; all 4 are essential."
   },
   {
     "id": "q238",
     "topic": "Digital Logic",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Digital Logic • 2 mark • MCQ] Placeholder question 8. (Not provided in source PDF — replace with real content.)",
+    "text": "Octal representation of binary 110101101 is:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "655",
+      "655",
+      "655",
+      "555"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 0,
+    "explanation": "110 101 101 → 6 5 5"
   },
   {
     "id": "q239",
     "topic": "Digital Logic",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Digital Logic • 2 mark • MCQ] Placeholder question 9. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which are TRUE about Karnaugh maps?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Useful for up to 6 variables comfortably",
+      "Adjacent cells differ in one variable",
+      "Used to simplify Boolean functions",
+      "Always give canonical SOP"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      1,
+      2
+    ]
   },
   {
     "id": "q240",
     "topic": "Digital Logic",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Digital Logic • 2 mark • MCQ] Placeholder question 10. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "A ROM stores a Boolean function of 4 variables. Number of address lines required?",
+    "answer": [
+      4,
+      4
+    ]
   },
   {
     "id": "q241",
     "topic": "Engineering Mathematics",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Engineering Mathematics • 1 mark • MCQ] Placeholder question 1. (Not provided in source PDF — replace with real content.)",
+    "text": "$\\displaystyle \\lim_{x \\to 0} \\frac{\\sin x}{x}$ equals:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "0",
+      "1",
+      "$\\infty$",
+      "Undefined"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q242",
     "topic": "Engineering Mathematics",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Engineering Mathematics • 1 mark • MCQ] Placeholder question 2. (Not provided in source PDF — replace with real content.)",
+    "text": "Derivative of $\\ln(x)$ with respect to $x$:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "$x$",
+      "$1/x$",
+      "$\\ln x / x$",
+      "$e^x$"
     ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q243",
     "topic": "Engineering Mathematics",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Engineering Mathematics • 1 mark • MCQ] Placeholder question 3. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "$\\int_0^1 x \\, dx = ?$ (decimal)",
+    "answer": [
+      0.49,
+      0.51
+    ]
   },
   {
     "id": "q244",
     "topic": "Engineering Mathematics",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Engineering Mathematics • 1 mark • MCQ] Placeholder question 4. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which matrices are always invertible?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Identity matrix",
+      "Diagonal matrix with all non-zero diagonal entries",
+      "Singular matrix",
+      "Orthogonal matrix"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      1,
+      3
+    ]
   },
   {
     "id": "q245",
     "topic": "Engineering Mathematics",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Engineering Mathematics • 1 mark • MCQ] Placeholder question 5. (Not provided in source PDF — replace with real content.)",
+    "text": "Eigenvalues of a $2\\times 2$ identity matrix:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "0, 0",
+      "1, 1",
+      "1, -1",
+      "2, 0"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q246",
     "topic": "Engineering Mathematics",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Engineering Mathematics • 1 mark • MCQ] Placeholder question 6. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "Rank of the matrix $\\begin{pmatrix}1&2\\\\2&4\\end{pmatrix}$?",
+    "answer": [
+      1,
+      1
+    ]
   },
   {
     "id": "q247",
     "topic": "Engineering Mathematics",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Engineering Mathematics • 1 mark • MCQ] Placeholder question 7. (Not provided in source PDF — replace with real content.)",
+    "text": "$\\nabla \\cdot \\mathbf{F}$ for $\\mathbf{F} = (x,y,z)$ is:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "0",
+      "1",
+      "3",
+      "$x+y+z$"
     ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 2
   },
   {
     "id": "q248",
     "topic": "Engineering Mathematics",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Engineering Mathematics • 1 mark • MCQ] Placeholder question 8. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which functions are continuous everywhere on $\\mathbb{R}$?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "$\\sin x$",
+      "$e^x$",
+      "$1/x$",
+      "$|x|$"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      1,
+      3
+    ]
   },
   {
     "id": "q249",
     "topic": "Engineering Mathematics",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Engineering Mathematics • 1 mark • MCQ] Placeholder question 9. (Not provided in source PDF — replace with real content.)",
+    "text": "Determinant of $\\begin{pmatrix}2&3\\\\1&4\\end{pmatrix}$ is:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "5",
+      "8",
+      "11",
+      "14"
     ],
     "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "explanation": "$2 \\cdot 4 - 3 \\cdot 1 = 5$"
   },
   {
     "id": "q250",
     "topic": "Engineering Mathematics",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Engineering Mathematics • 1 mark • MCQ] Placeholder question 10. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "$\\int_0^{\\pi} \\sin x \\, dx = ?$",
+    "answer": [
+      2,
+      2
+    ]
   },
   {
     "id": "q251",
     "topic": "Engineering Mathematics",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Engineering Mathematics • 2 mark • MCQ] Placeholder question 1. (Not provided in source PDF — replace with real content.)",
+    "text": "Solution of $dy/dx = y$ with $y(0)=1$:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "$y=x$",
+      "$y=e^x$",
+      "$y=\\ln x$",
+      "$y=x^2$"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q252",
     "topic": "Engineering Mathematics",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Engineering Mathematics • 2 mark • MCQ] Placeholder question 2. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "Sum of eigenvalues (trace) of $\\begin{pmatrix}2&1&0\\\\0&3&1\\\\0&0&5\\end{pmatrix}$?",
+    "answer": [
+      10,
+      10
+    ]
   },
   {
     "id": "q253",
     "topic": "Engineering Mathematics",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Engineering Mathematics • 2 mark • MCQ] Placeholder question 3. (Not provided in source PDF — replace with real content.)",
+    "text": "Newton-Raphson iteration for $f(x)=0$ uses:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "$x_{n+1}=x_n - f(x_n)$",
+      "$x_{n+1}=x_n - f(x_n)/f'(x_n)$",
+      "$x_{n+1}=x_n + f(x_n)$",
+      "$x_{n+1}=x_n / f'(x_n)$"
     ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q254",
     "topic": "Engineering Mathematics",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Engineering Mathematics • 2 mark • MCQ] Placeholder question 4. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which are TRUE about LU decomposition?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "$A = LU$ where $L$ is lower triangular",
+      "$U$ is upper triangular",
+      "Used to solve linear systems efficiently",
+      "Only works for symmetric matrices"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "q255",
     "topic": "Engineering Mathematics",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Engineering Mathematics • 2 mark • MCQ] Placeholder question 5. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "Trapezoidal rule with $n=2$ subintervals on $\\int_0^2 x^2 \\, dx$. Approximate value?",
+    "answer": [
+      3,
+      3
+    ]
   },
   {
     "id": "q256",
     "topic": "Engineering Mathematics",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Engineering Mathematics • 2 mark • MCQ] Placeholder question 6. (Not provided in source PDF — replace with real content.)",
+    "text": "Taylor series of $e^x$ around $x=0$:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "$\\sum x^n$",
+      "$\\sum x^n / n!$",
+      "$\\sum n x^n$",
+      "$\\sum (-1)^n x^n / n!$"
     ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q257",
     "topic": "Engineering Mathematics",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Engineering Mathematics • 2 mark • MCQ] Placeholder question 7. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "$\\int_0^1 \\int_0^1 (x+y) \\, dx \\, dy = ?$",
+    "answer": [
+      1,
+      1
+    ]
   },
   {
     "id": "q258",
     "topic": "Engineering Mathematics",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Engineering Mathematics • 2 mark • MCQ] Placeholder question 8. (Not provided in source PDF — replace with real content.)",
+    "text": "A linear system $Ax=b$ has a unique solution iff:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "$\\det(A) = 0$",
+      "$\\det(A) \\ne 0$",
+      "$A$ is symmetric",
+      "$A$ is singular"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q259",
     "topic": "Engineering Mathematics",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Engineering Mathematics • 2 mark • MCQ] Placeholder question 9. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which numerical methods solve $f(x)=0$?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Bisection",
+      "Newton-Raphson",
+      "Secant",
+      "Gauss Elimination"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "q260",
     "topic": "Engineering Mathematics",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Engineering Mathematics • 2 mark • MCQ] Placeholder question 10. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "Number of linearly independent eigenvectors of the identity matrix $I_3$?",
+    "answer": [
+      3,
+      3
+    ]
   },
   {
     "id": "q261",
     "topic": "Aptitude",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Aptitude • 1 mark • MCQ] Placeholder question 1. (Not provided in source PDF — replace with real content.)",
+    "text": "If the average of 5 numbers is 20, the sum is:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "80",
+      "100",
+      "120",
+      "150"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q262",
     "topic": "Aptitude",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Aptitude • 1 mark • MCQ] Placeholder question 2. (Not provided in source PDF — replace with real content.)",
+    "text": "A train 200 m long crosses a pole in 10 seconds. Its speed in m/s is:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "10",
+      "15",
+      "20",
+      "25"
     ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 2
   },
   {
     "id": "q263",
     "topic": "Aptitude",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Aptitude • 1 mark • MCQ] Placeholder question 3. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "If 3 pens cost ₹45, the cost of 7 pens (₹)?",
+    "answer": [
+      105,
+      105
+    ]
   },
   {
     "id": "q264",
     "topic": "Aptitude",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Aptitude • 1 mark • MCQ] Placeholder question 4. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which of the following are prime numbers?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "2",
+      "9",
+      "11",
+      "15"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      2
+    ]
   },
   {
     "id": "q265",
     "topic": "Aptitude",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Aptitude • 1 mark • MCQ] Placeholder question 5. (Not provided in source PDF — replace with real content.)",
+    "text": "20% of 250 = ?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "25",
+      "40",
+      "50",
+      "60"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 2
   },
   {
     "id": "q266",
     "topic": "Aptitude",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Aptitude • 1 mark • MCQ] Placeholder question 6. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "LCM of 6 and 8?",
+    "answer": [
+      24,
+      24
+    ]
   },
   {
     "id": "q267",
     "topic": "Aptitude",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Aptitude • 1 mark • MCQ] Placeholder question 7. (Not provided in source PDF — replace with real content.)",
+    "text": "Choose the synonym of \"abundant\":",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Scarce",
+      "Plentiful",
+      "Tiny",
+      "Hidden"
     ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1
   },
   {
     "id": "q268",
     "topic": "Aptitude",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Aptitude • 1 mark • MCQ] Placeholder question 8. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which numbers are divisible by 3?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "12",
+      "17",
+      "21",
+      "29"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      2
+    ]
   },
   {
     "id": "q269",
     "topic": "Aptitude",
     "marks": 1,
     "type": "MCQ",
-    "text": "[Aptitude • 1 mark • MCQ] Placeholder question 9. (Not provided in source PDF — replace with real content.)",
+    "text": "If A:B = 2:3 and B:C = 4:5, then A:C is:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "8:15",
+      "2:5",
+      "4:5",
+      "3:5"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 0
   },
   {
     "id": "q270",
     "topic": "Aptitude",
     "marks": 1,
-    "type": "MCQ",
-    "text": "[Aptitude • 1 mark • MCQ] Placeholder question 10. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "Simple interest on ₹1000 at 10% per annum for 2 years (₹)?",
+    "answer": [
+      200,
+      200
+    ]
   },
   {
     "id": "q271",
     "topic": "Aptitude",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Aptitude • 2 mark • MCQ] Placeholder question 1. (Not provided in source PDF — replace with real content.)",
+    "text": "A boat travels 30 km downstream in 2 hours and returns in 3 hours. Speed of boat in still water (km/h):",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "10",
+      "12.5",
+      "13.5",
+      "15"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 1,
+    "explanation": "Down=15, Up=10; boat=(15+10)/2=12.5"
   },
   {
     "id": "q272",
     "topic": "Aptitude",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Aptitude • 2 mark • MCQ] Placeholder question 2. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "Compound interest on ₹10000 at 10% per annum for 2 years (₹)?",
+    "answer": [
+      2100,
+      2100
+    ]
   },
   {
     "id": "q273",
     "topic": "Aptitude",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Aptitude • 2 mark • MCQ] Placeholder question 3. (Not provided in source PDF — replace with real content.)",
+    "text": "The average age of 30 students is 15 years. If the teacher's age is included, the average becomes 16. Teacher's age (years):",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "31",
+      "40",
+      "45",
+      "46"
     ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 3,
+    "explanation": "Total with teacher = 31*16=496; without = 30*15=450; teacher = 46"
   },
   {
     "id": "q274",
     "topic": "Aptitude",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Aptitude • 2 mark • MCQ] Placeholder question 4. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which of the following statements are correct?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "$(a+b)^2 = a^2 + 2ab + b^2$",
+      "$(a-b)^2 = a^2 - 2ab + b^2$",
+      "$a^2 - b^2 = (a+b)(a-b)$",
+      "$(a+b)^3 = a^3 + b^3$"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": "q275",
     "topic": "Aptitude",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Aptitude • 2 mark • MCQ] Placeholder question 5. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+    "type": "NAT",
+    "text": "A work is done by A in 12 days and by B in 18 days. Days required together?",
+    "answer": [
+      7.19,
+      7.21
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "explanation": "$1/(1/12+1/18) = 36/5 = 7.2$"
   },
   {
     "id": "q276",
     "topic": "Aptitude",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Aptitude • 2 mark • MCQ] Placeholder question 6. (Not provided in source PDF — replace with real content.)",
+    "text": "If a car covers 60 km at 30 km/h and the next 60 km at 60 km/h, average speed (km/h):",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "40",
+      "45",
+      "50",
+      "55"
     ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 0,
+    "explanation": "$2 \\cdot 30 \\cdot 60 / (30+60) = 40$"
   },
   {
     "id": "q277",
     "topic": "Aptitude",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Aptitude • 2 mark • MCQ] Placeholder question 7. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 2,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "A sum doubles in 8 years at simple interest. Rate of interest (% per annum)?",
+    "answer": [
+      12.4,
+      12.6
+    ]
   },
   {
     "id": "q278",
     "topic": "Aptitude",
     "marks": 2,
     "type": "MCQ",
-    "text": "[Aptitude • 2 mark • MCQ] Placeholder question 8. (Not provided in source PDF — replace with real content.)",
+    "text": "A and B can complete a task in 10 and 15 days respectively. They work together for 4 days; remaining work fraction:",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "1/3",
+      "1/2",
+      "2/3",
+      "1/6"
     ],
-    "answer": 3,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": 0,
+    "explanation": "Together rate=1/6; in 4 days=4/6=2/3 done; left=1/3"
   },
   {
     "id": "q279",
     "topic": "Aptitude",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Aptitude • 2 mark • MCQ] Placeholder question 9. (Not provided in source PDF — replace with real content.)",
+    "type": "MSQ",
+    "text": "Which sequences are arithmetic progressions?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "2, 4, 6, 8",
+      "1, 3, 9, 27",
+      "5, 5, 5, 5",
+      "10, 7, 4, 1"
     ],
-    "answer": 0,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "answer": [
+      0,
+      2,
+      3
+    ]
   },
   {
     "id": "q280",
     "topic": "Aptitude",
     "marks": 2,
-    "type": "MCQ",
-    "text": "[Aptitude • 2 mark • MCQ] Placeholder question 10. (Not provided in source PDF — replace with real content.)",
-    "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
-    ],
-    "answer": 1,
-    "explanation": "Placeholder — source PDF did not include this topic."
+    "type": "NAT",
+    "text": "Number of ways to arrange the letters of the word \"GATE\"?",
+    "answer": [
+      24,
+      24
+    ]
   }
 ]
